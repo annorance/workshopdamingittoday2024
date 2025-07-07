@@ -1,1 +1,2 @@
-# workshopdamingittoday2024
+# Workshop Data Mining ITTODAY 2024
+Berdasarkan pada tema IT Today yaitu "Exploring Harmonious Connections in the Digital Universe", acara IT Today kali ini akan membekali generasi muda Indonesia mengenai Computer Vision yang merupakan sebuah program yang memanfaatkan kombinasi teknik untuk memproses gambar (raw images) dan  mengubahnya menjadi data yang dapat digunakan dan informatif. Sehingga, tema yang diusung adalah “From Pixel to Patterns: A Deep Dive into Computer Vision”
